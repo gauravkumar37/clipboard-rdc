@@ -6,6 +6,12 @@ CLIPBOARD RDC
 * Project URL: https://github.com/gauravkumar37/clipboard-rdc
 * LinkedIn Profile: http://in.linkedin.com/in/gauravkumar37
 
+For more information, please refer to the following pages:
+* Home- https://github.com/gauravkumar37/clipboard-rdc/wiki
+* Help- https://github.com/gauravkumar37/clipboard-rdc/wiki/HELP
+* Readme- Compiling & Executing https://github.com/gauravkumar37/clipboard-rdc/wiki/README
+* Roadmap- future progress https://github.com/gauravkumar37/clipboard-rdc/wiki/ROADMAP
+
 DISCLAIMER
 ----------
 This project is release under GNU GPL v3 license. In short this means that this is a free software.
