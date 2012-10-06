@@ -1,10 +1,10 @@
 CLIPBOARD RDC
 =============
 
-Author: Gaurav Kumar
-Email: gauravkumar37 [at] gmail.com
-Project URL: http://code.google.com/p/clipboard-rdc
-LinkedIn Profile: http://www.linkedin.com/in/gauravkumar37
+* Author: Gaurav Kumar
+* Email: gauravkumar37 [at] gmail.com
+* Project URL: https://github.com/gauravkumar37/clipboard-rdc
+* LinkedIn Profile: http://in.linkedin.com/in/gauravkumar37
 
 DISCLAIMER
 ----------
