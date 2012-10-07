@@ -1,4 +1,4 @@
-package com.googlecode;
+package com.rdc;
 
 import java.awt.BorderLayout;
 import java.awt.Button;
